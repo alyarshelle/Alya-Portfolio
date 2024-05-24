@@ -1,0 +1,57 @@
+.centered-content {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+}
+
+.header h1{
+  color: #543c3c; /* Change this to your desired color */
+  background-color: #108b1a; /* Change this to your desired color */
+  text-align: center;
+  padding: 20px;
+  font-size: 100px;
+  margin-top: 20px; /* Adjust the margin-top to move the green section down */
+
+}
+
+.CarouselContainer .carousel-image {
+  height: 300px; /* Adjust this value as needed */
+  width: auto;
+  object-fit: contain;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  background-color: black; /* Change this to your desired color */
+}
+
+.CarouselContainer .carousel-indicators li {
+  background-color: black; /* Change this to your desired color */
+}
+
+.CarouselContainer .carousel-indicators .active {
+  background-color: #555; /* Darker color for the active indicator */
+}
+
+.blurb-container {
+  text-align: center;
+  background-color: #f8f9fa;
+  margin-top: 20px; /* Adjust this value as needed */
+}
+
+.team-image {
+  width: 200px; /* Set width to 200 pixels */
+  height: 150px; /* Set height to 150 pixels */
+}
+
+.team-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%; /* Make sure the container takes the full height */
+}
+
+.member-card {
+  text-align: center;
+  margin: 20px; /* Add some margin around each member card */
+}

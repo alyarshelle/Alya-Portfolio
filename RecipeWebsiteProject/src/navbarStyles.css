@@ -1,0 +1,10 @@
+/* navbarStyles.css */
+.navbar-custom {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+  
+  .nav-link-custom {
+    margin-right: 20px; /* Adjust as needed */
+  }
+  
