@@ -10,8 +10,6 @@ This contains the code for a school project aimed at developing a simple user in
 - [Query Descriptions](#query-descriptions)
 - [Getting Started](#getting-started)
 - [Setup Instructions](#setup-instructions)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
