@@ -15,19 +15,25 @@ function LandingPage() {
 
             <div className="recipes">
                 <div className="recipe-card">
-                    <img src="spaghetti.png" alt="Spaghetti and Meatballs" className="recipe-image" />
-                    <h3>Spaghetti and Meatballs</h3>
-                    <p>Spaghetti and meatballs is a classic comfort food that's easy to make and tastes great!</p>
+                    <img src={spaghet} alt="Spaghetti and Meatballs" className="recipe-image" />
+                    <div className="recipe-details">
+                        <h3>Spaghetti and Meatballs</h3>
+                        <p>Spaghetti and meatballs is a classic comfort food that's easy to make and tastes great!</p>
+                    </div>
                 </div>
                 {/* <div className="recipe-card">
                     <img src="chicken_tacos.jpg" alt="Chicken Tacos" className="recipe-image" />
-                    <h3>Chicken Tacos</h3>
-                    <p>Chicken tacos are a quick and easy meal that's perfect for busy weeknights.</p>
+                    <div className="recipe-details">
+                        <h3>Chicken Tacos</h3>
+                        <p>Chicken tacos are a quick and easy meal that's perfect for busy weeknights.</p>
+                    </div>
                 </div>
                 <div className="recipe-card">
                     <img src="chocolate_chip_cookies.jpg" alt="Chocolate Chip Cookies" className="recipe-image" />
-                    <h3>Chocolate Chip Cookies</h3>
-                    <p>Chocolate chip cookies are a classic dessert that everyone loves.</p>
+                    <div className="recipe-details">
+                        <h3>Chocolate Chip Cookies</h3>
+                        <p>Chocolate chip cookies are a classic dessert that everyone loves.</p>
+                    </div>
                 </div> */}
             </div>
 
@@ -39,3 +45,4 @@ function LandingPage() {
 }
 
 export default LandingPage;
+
