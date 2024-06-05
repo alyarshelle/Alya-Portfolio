@@ -21,10 +21,6 @@ const getComputerChoice = () => {
     }
 }
 
-//r > s
-//p > r
-//s > p
-
 const determineWinner = (userChoice, computerChoice) => {
     if(userChoice == computerChoice){
         return "It's a tie!";
@@ -71,22 +67,6 @@ const playGame = () => {
 
 }
 
-//playGame();
+playGame();
 
-//TEST CASES
-
-//TESTING USER INPUT
-//console.log(getUserChoice("ROCK"));
-//console.log(getUserChoice("paper"));
-//console.log(getUserChoice("ScisSOrs"));
-//console.log(getUserChoice("Potato"));
-//console.log(getUserChoice("CARROT")); 
-
-//TESTING CMP INPUT
-//console.log(getComputerChoice());
-//console.log(getComputerChoice());
-//console.log(getComputerChoice());
-
-//TESTING DETERMINE WINNER
-//console.log(determineWinner(getUserChoice("rock"), getComputerChoice()));
 
