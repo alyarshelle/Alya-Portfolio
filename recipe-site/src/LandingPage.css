@@ -1,9 +1,21 @@
-/* src/LandingPage.css */
 .recipes {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     padding: 20px;
+    padding-bottom: 80px; /* Adjust the padding bottom to accommodate the fixed footer */
+  }
+  
+  .recipe-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between; /* Adjust spacing between cards */
+    margin: 0 auto; /* Centering the cards horizontally */
+  }
+  
+  .recipe-cards > * {
+    flex: 0 0 calc(33.33% - 20px); /* Adjust as needed for spacing between cards */
+    margin-bottom: 20px; /* Adjust as needed for spacing between rows */
   }
   
   header {
