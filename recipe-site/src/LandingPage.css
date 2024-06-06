@@ -1,0 +1,48 @@
+.recipes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+    padding-bottom: 80px; /* Adjust the padding bottom to accommodate the fixed footer */
+  }
+  
+  .recipe-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between; /* Adjust spacing between cards */
+    margin: 0 auto; /* Centering the cards horizontally */
+  }
+  
+  .recipe-cards > * {
+    flex: 0 0 calc(33.33% - 20px); /* Adjust as needed for spacing between cards */
+    margin-bottom: 20px; /* Adjust as needed for spacing between rows */
+  }
+  
+  header {
+    text-align: center;
+    padding: 20px;
+    background-color: #f8f8f8;
+    margin-bottom: 20px;
+  }
+  
+  header h1 {
+    margin: 0;
+    font-size: 24px;
+    color: #333;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #f8f8f8;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+  }
+  
+  footer p {
+    margin: 0;
+    font-size: 14px;
+    color: #777;
+  }
+  

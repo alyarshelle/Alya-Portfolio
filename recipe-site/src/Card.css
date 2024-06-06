@@ -1,0 +1,34 @@
+/* src/Card.css */
+.card {
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin: 10px;
+    overflow: hidden;
+    background-color: #fff;
+    text-align: center;
+  }
+  
+  .card-image {
+    width: 100%;
+    height: auto;
+    max-height: 150px; /* Constrain the height */
+    object-fit: cover; /* Ensures the image covers the container without distortion */
+  }
+  
+  .card-details {
+    padding: 10px;
+  }
+  
+  .card-details h3 {
+    margin: 10px 0;
+    font-size: 18px;
+  }
+  
+  .card-details p {
+    margin: 0;
+    font-size: 14px;
+    color: #555;
+  }
+  
