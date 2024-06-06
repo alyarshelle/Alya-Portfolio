@@ -2,25 +2,32 @@
 
 Welcome to my coding portfolio! Below are some projects I've worked on, ranging from school assignments to personal endeavors.
 
-## Projects
+## Projects Found Here
 
-1. **IMDB Replica**
-   - **Description:** A replica of the IMDB website created as a school project.
-   - **Technologies Used:** HTML, CSS, JavaScript, SQL, PHP
-
-2. **Calculator**
+1. **Calculator**
    - **Description:** A simple calculator application.
    - **Note:** Best viewed in PyCharm IDE.
    - **Technologies Used:** Python
 
-3. **Rock Paper Scissors**
+2. **Rock Paper Scissors**
    - **Description:** A JavaScript implementation of the classic game.
    - **Technologies Used:** JavaScript
 
-4. **Snake Game**
+3. **Snake Game**
    - **Description:** A classic Snake game implementation.
    - **Note:** Best viewed in PyCharm IDE.
    - **Technologies Used:** Python
+  
+## Projects You Can Find On My GitHub (https://github.com/alyarshelle)
+
+1. **IMDB Replica**
+   - **Description:** A replica of the IMDB website created as a school project.
+   - **Technologies Used:** HTML, CSS, JavaScript, SQL, PHP
+  
+2. **Recipe Website**
+   - **Description:** A culmination of skills I learned in my fundamentals of software engineering course.
+   - **Technologies Used:** HTML, CSS, JavaScript, React
+   
 
 ## Contact
 
