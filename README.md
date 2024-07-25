@@ -18,6 +18,10 @@ Welcome to my coding portfolio! Below are some projects I've worked on, ranging 
    - **Note:** Best viewed in PyCharm IDE.
    - **Technologies Used:** Python
   
+4. **Wordle Clone**
+   - **Description:** A recreation of the NYT Wordle game including Hard Mode functionalities.
+   - **Technologies Used:** HTML, CSS, Javascript
+  
 ## Projects You Can Find On My GitHub (https://github.com/alyarshelle)
 
 1. **IMDB Replica**
