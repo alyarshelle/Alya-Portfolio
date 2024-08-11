@@ -9,16 +9,12 @@ Welcome to my coding portfolio! Below are some projects I've worked on, ranging 
    - **Note:** Best viewed in PyCharm IDE.
    - **Technologies Used:** Python
 
-2. **Rock Paper Scissors**
-   - **Description:** A JavaScript implementation of the classic game.
-   - **Technologies Used:** JavaScript
-
-3. **Snake Game**
+2. **Snake Game**
    - **Description:** A classic Snake game implementation.
    - **Note:** Best viewed in PyCharm IDE.
    - **Technologies Used:** Python
   
-4. **Wordle Clone**
+3. **Wordle Clone**
    - **Description:** A recreation of the NYT Wordle game including Hard Mode functionalities.
    - **Technologies Used:** HTML, CSS, Javascript
   
